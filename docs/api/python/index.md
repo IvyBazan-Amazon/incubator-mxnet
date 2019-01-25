@@ -27,12 +27,6 @@ Code examples are placed throughout the API documentation and these can be run a
 
 ## [Autograd API](autograd/autograd.md)
 
-```eval_rst
-.. toctree::
-   :maxdepth: 1
-
-   autograd/autograd.md
-```
 
 ## [Callback API](callback/callback.md)
 
