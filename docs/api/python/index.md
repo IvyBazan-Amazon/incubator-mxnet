@@ -25,7 +25,7 @@ Code examples are placed throughout the API documentation and these can be run a
 
 \* Some old references to Model API may exist, but this API has been deprecated.
 
-## Autograd API
+## [Autograd API](autograd/autograd.md)
 
 ```eval_rst
 .. toctree::
@@ -34,7 +34,7 @@ Code examples are placed throughout the API documentation and these can be run a
    autograd/autograd.md
 ```
 
-## Callback API
+## [Callback API](callback/callback.md)
 
 ```eval_rst
 .. toctree::
@@ -43,7 +43,8 @@ Code examples are placed throughout the API documentation and these can be run a
    callback/callback.md
 ```
 
-## Contrib Package
+## [Contrib Package](contrib/contrib.md)
+
 
 ```eval_rst
 .. toctree::
@@ -55,7 +56,7 @@ Code examples are placed throughout the API documentation and these can be run a
    contrib/svrg_optimization.md
 ```
 
-## Gluon API
+## [Gluon API](gluon/gluon.md)
 
 ```eval_rst
 .. toctree::
@@ -70,7 +71,7 @@ Code examples are placed throughout the API documentation and these can be run a
    gluon/contrib.md
 ```
 
-## Image API
+## [Image API](image/image.md)
 
 ```eval_rst
 .. toctree::
@@ -79,7 +80,8 @@ Code examples are placed throughout the API documentation and these can be run a
    image/image.md
 ```
 
-## IO API
+## [IO API](io/io.md)
+
 
 ```eval_rst
 .. toctree::
@@ -88,7 +90,7 @@ Code examples are placed throughout the API documentation and these can be run a
    io/io.md
 ```
 
-## KV Store API
+## [KV Store API](kvstore/kvstore.md)
 
 ```eval_rst
 .. toctree::
@@ -97,7 +99,7 @@ Code examples are placed throughout the API documentation and these can be run a
    kvstore/kvstore.md
 ```
 
-## Metric API
+## [Metric API](metric/metric.md)
 
 ```eval_rst
 .. toctree::
@@ -106,7 +108,7 @@ Code examples are placed throughout the API documentation and these can be run a
    metric/metric.md
 ```
 
-## Module API
+## [Module API](module/module.md)
 
 ```eval_rst
 .. toctree::
@@ -116,7 +118,7 @@ Code examples are placed throughout the API documentation and these can be run a
    executor/executor.md
 ```
 
-## NDArray API
+## [NDArray API](ndarray/ndarray.md)
 
 ```eval_rst
 .. toctree::
@@ -129,7 +131,7 @@ Code examples are placed throughout the API documentation and these can be run a
    ndarray/contrib.md
 ```
 
-## Optimization API
+## [Optimization API](optimization/optimization.md)
 
 ```eval_rst
 .. toctree::
@@ -139,7 +141,7 @@ Code examples are placed throughout the API documentation and these can be run a
    optimization/contrib.md
 ```
 
-## Profiler API
+## [Profiler API](profiler/profiler.md)
 
 ```eval_rst
 .. toctree::
@@ -148,7 +150,7 @@ Code examples are placed throughout the API documentation and these can be run a
    profiler/profiler.md
 ```
 
-## Run-Time Compilation API
+## [Run-Time Compilation API](rtc/rtc.md)
 
 ```eval_rst
 .. toctree::
@@ -157,7 +159,7 @@ Code examples are placed throughout the API documentation and these can be run a
    rtc/rtc.md
 ```
 
-## Symbol API
+## [Symbol API](symbol/symbol.md)
 
 ```eval_rst
 .. toctree::
@@ -171,7 +173,7 @@ Code examples are placed throughout the API documentation and these can be run a
    symbol/rnn.md
 ```
 
-## Symbol in Pictures API
+## [Symbol in Pictures API](symbol_in_pictures/symbol_in_pictures.md)
 
 ```eval_rst
 .. toctree::
